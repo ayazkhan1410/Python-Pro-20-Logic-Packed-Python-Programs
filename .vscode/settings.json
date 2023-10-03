@@ -1,0 +1,7 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.autoOpenBrackets": "always",
+    "python.autoComplete.extraPaths": [
+    
+    ]
+}
